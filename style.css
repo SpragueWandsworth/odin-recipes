@@ -1,0 +1,48 @@
+
+.tomato {
+    color: #ff0000;
+}
+
+.pasta {
+    color: #696634;
+}
+
+.tuna {
+    color: #d87093;
+}
+
+.title {
+    text-align: center;
+    font-family: cursive, sans-serif;
+    font-size: 64px;
+    font-weight: bold;
+    color: #ffff;
+    background-color: rgb(26, 26, 118);
+    padding: 5px;
+    outline: 5px solid black;
+}
+
+.container {
+    width: 500px;
+    outline: 5px solid black;
+    padding: 5px;
+    padding-left: 10px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: bisque;
+}
+
+.home-link {
+    width: 100px;
+    outline: 3px solid black;
+    padding: 3px;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    outline: 10px solid darkblue;
+}
